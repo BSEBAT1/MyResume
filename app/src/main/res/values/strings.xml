@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="hello">Hello World, Todo!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content"> My name is Berkay Sebat. I am a 23 year old programmer with an interest in mobile application development. My goal is to acquire a position in the mobile development field. Since graduating from Hofstra University in 2014, with a BBA in Information Technology I have been continuously employed as a Webfocus developer. I have a passion for creating visualizations and working with geo-location. I have created this android app to display some of my skills in android development. Please feel free to browse around using the buttons and the menu! This app will attempt to display some Android features such as/n
+
+        -Creating a Custom Listview\n
+
+        -Listening For Listview actions\n
+
+        -Displaying data and sending data through Intents\n
+
+        -Submitting data to an MYSQL db\n
+
+        -Retrieving and processing JSON data\n
+
+
+    </string>
+    <string name="title_activity_test_database">TestDatabaseActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_img_list">ImgList</string>
+    <string name="title_activity_detail_turk_teams">DetailTurkTeams</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_json">Json</string>
+    <string name="title_activity_display__list_view">Display_ListView</string>
+
+
+</resources>
